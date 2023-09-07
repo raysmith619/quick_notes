@@ -1,6 +1,6 @@
 # list_file.py  23Jun2023  crs, Author
 """
-list file - first of notes project
+list file - first of notes
 """
 file_name = "my_notes.txt"
 
